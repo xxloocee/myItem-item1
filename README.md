@@ -7,7 +7,7 @@ Project address: https://github.com/xxloocee/myItem.git
 git clone 
 
 # enter the project directory
-cd myItem/item1
+cd myItem-item1
 
 # install dependency
 npm install
